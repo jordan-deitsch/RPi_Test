@@ -34,7 +34,7 @@ class GpioMonitor:
         return 0
 			
 		
-
+# Define GPIO pin numbers
 pinButton = 22
 
 # Setup GPIO pins
